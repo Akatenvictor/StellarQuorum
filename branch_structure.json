@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/voting-power-preview",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/voting-power-preview": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/voting-power-preview",
+    "origin"
+  ]
+}
